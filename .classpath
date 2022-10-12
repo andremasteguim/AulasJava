@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ClassesAbstratasExercicio/src"/>
+	<classpathentry kind="src" path="ConstrutoresSobrecarga/src"/>
+	<classpathentry kind="src" path="Curso_programacao/src"/>
+	<classpathentry kind="src" path="DataHora_Instanciando/src"/>
+	<classpathentry kind="src" path="Enumeracoes_Composicao_Exercicio1/src"/>
+	<classpathentry kind="src" path="Enumeracoes_Composicao_ExercicioProposto/src"/>
+	<classpathentry kind="src" path="EstruturaRepetitivaWhile/src"/>
+	<classpathentry kind="src" path="ListaExercicioTeste/src"/>
+	<classpathentry kind="src" path="ListasExercicio/src"/>
+	<classpathentry kind="src" path="ListasExercicio1/src"/>
+	<classpathentry kind="src" path="MatrizExercicio1/src"/>
+	<classpathentry kind="src" path="MatrizExercicioResolvido/src"/>
+	<classpathentry kind="src" path="OrientacaoObjeto/src"/>
+	<classpathentry kind="src" path="OrientacaoObjeto2/src"/>
+	<classpathentry kind="src" path="OrientacaoObjeto3/src"/>
+	<classpathentry kind="src" path="OrientacaoObjetoMembrosEstaticos/src"/>
+	<classpathentry kind="src" path="PolimorfismoExercicio/src"/>
+	<classpathentry kind="src" path="TratamentoExcecoesExercicio/src"/>
+	<classpathentry kind="src" path="VetoresExercicio1/src"/>
+	<classpathentry kind="src" path="VetoresExercicio2/src"/>
+	<classpathentry kind="src" path="VetoresExercicio3/src"/>
+	<classpathentry kind="src" path="VetoresExercicio4/src"/>
+	<classpathentry kind="src" path="VetoresExerciocioPensionato/src"/>
+	<classpathentry kind="output" path="ClassesAbstratasExercicio/bin"/>
+</classpath>
